@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest_BankAccount", "..\MS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_BankAccount", "..\NUnit\NUnit_BankAccount\NUnit_BankAccount.csproj", "{C0707D4C-035E-4B63-800B-69BA90EF3988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnit_BankAccount", "XUnit_BankAccount\XUnit_BankAccount.csproj", "{05BC6CDA-D1B9-40A5-A9B9-FF2C4D6A279D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnit_BankAccount", "..\XUnit\XUnit_BankAccount\XUnit_BankAccount.csproj", "{05BC6CDA-D1B9-40A5-A9B9-FF2C4D6A279D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
